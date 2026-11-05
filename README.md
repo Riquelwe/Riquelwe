@@ -94,13 +94,23 @@ Práticas com MySQL, criação de tabelas, inserção de registros e consultas S
 
 ---
 
-## 📊 GitHub Analytics
+
+## ◈ 05 — SYSTEM ANALYTICS
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Riquelwe&show_icons=true&theme=transparent&title_color=00E5FF&icon_color=39FF14&text_color=FFFFFF&border_color=30363D&hide_border=false&include_all_commits=true" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelwe&layout=compact&theme=transparent&title_color=00E5FF&text_color=FFFFFF&border_color=30363D" />
+<img
+  width="48%"
+  src="https://github-stats-extended.vercel.app/api?username=Riquelwe&show_icons=true&hide_border=true&bg_color=080B18&title_color=5CE1FF&icon_color=9B8CFF&text_color=C4D0E8"
+/>
+
+<img
+  width="48%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Riquelwe&layout=compact&hide_border=true&bg_color=080B18&title_color=5CE1FF&text_color=C4D0E8"
+/>
+
 </div>
+
 
 ---
 
